@@ -1,6 +1,6 @@
 <?php
-$dbHost="localhost";
-$dbUsername="root";
-$dbPassword="(CBE55)";
-$dbName="tinywall_db";
+$dbHost="XXXXXXX";
+$dbUsername="XXXXXXX";
+$dbPassword="XXXXXXX";
+$dbName="XXXXXXX";
 ?>
